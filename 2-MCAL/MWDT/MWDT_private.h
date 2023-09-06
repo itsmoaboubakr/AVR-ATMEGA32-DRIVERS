@@ -9,7 +9,7 @@
 #ifndef _MWDT_PRIVATE_H_
 #define _MWDT_PRIVATE_H_
 
-#define WDTCR	*((volatile u8*)0x41)
+#define WDTCR *((volatile u8*)0x41)
 #define WDTOE 4
 #define WDE   3
 #define WDP2  2
