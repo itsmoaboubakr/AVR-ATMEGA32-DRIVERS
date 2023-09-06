@@ -1,7 +1,7 @@
 /************************************/
 /*   Author:    mBravo18            */
 /*   SWC:       WATCHDOG TIMER      */
-/*   Layer:     MCA                 */
+/*   Layer:     MCAL                */
 /*   Date:      September 07, 2023  */
 /*   Last Edit: N/A                 */
 /************************************/
