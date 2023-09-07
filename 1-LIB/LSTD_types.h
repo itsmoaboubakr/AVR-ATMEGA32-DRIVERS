@@ -22,6 +22,6 @@ typedef enum{
 	E_NULL_POINTER,	//	
 }STD_error_t;		// standard error typedef
 
-#define NULL_POINTER ((void*)0)		// to equate new ptrs to null
+#define NULL_POINTER ((void*)0)
 
 #endif
