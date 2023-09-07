@@ -18,10 +18,10 @@ typedef double              f64;
 
 typedef enum{		
 	E_OK,          	//	
-	E_NOK,         	//	AUTOSAR STANDARD
+	E_NOK,         	// AUTOSAR STANDARD
 	E_NULL_POINTER,	//	
-}STD_error_t;		//standard error typedef
+}STD_error_t;		// standard error typedef
 
-#define NULL_POINTER ((void*)0)		//to equate new ptrs to null
+#define NULL_POINTER ((void*)0)		// to equate new ptrs to null
 
 #endif
